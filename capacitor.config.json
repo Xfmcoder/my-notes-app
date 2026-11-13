@@ -1,0 +1,6 @@
+{
+  "appId": "com.xfmcoder.mynotes",
+  "appName": "My Notes",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
